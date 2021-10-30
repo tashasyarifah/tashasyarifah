@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 - 💬 Ask me about 
 - ⚡ Fun fact: ...
-- 📫 How to reach me: (Twitter)[https://twitter.com/tashasyarifah_]
 
 -->
 
@@ -15,5 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Frontend developer
 - 🤔 I’m looking for help with JavaScript and Reaact
 - 😄 Pronouns: She/Her
+- 📫 How to reach me: [Twitter](https://twitter.com/tashasyarifah_)
+
 
 
