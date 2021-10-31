@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on creating my website
 - 🌱 I’m currently learning JavaScript and React
 - 👯 I’m looking to collaborate on Frontend developer
-- 🤔 I’m looking for help with JavaScript and Reaact
+- 🤔 I’m looking for help with JavaScript and React
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: [Twitter](https://twitter.com/tashasyarifah_)
 
