@@ -36,6 +36,7 @@ Let's connect with each other and please say Hi 👋
 
 <details>
   <summary>Projects 💎</summary>
+  
   ### Digital Business Card [Live Site](https://digital-business-card-tashasyarifah.vercel.app/) | [Repo](https://github.com/tashasyarifah/digital-business-card)
   - Used HTML, CSS, Module.css, and JSX
   - Learned on how components works on React
