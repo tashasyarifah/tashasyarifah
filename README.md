@@ -36,6 +36,10 @@ Let's connect with each other and please say Hi 👋
 
 <details>
   <summary>Projects 💎</summary>
+  ### Digital Business Card [Live Site](https://digital-business-card-tashasyarifah.vercel.app/) | [Repo](https://github.com/tashasyarifah/digital-business-card)
+  - Used HTML, CSS, Module.css, and JSX
+  - Learned on how components works on React
+  - Accessible on mobile too
   
   ### Sign Form [Live Site](https://signup-form-ruby.vercel.app/) | [Repo](https://github.com/tashasyarifah/signup-form)
   - Build with HTML5, CSS3, JavaScript
@@ -62,12 +66,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JavaScript and React
 - 😄 Pronouns: She/Her
 - 📫 How to reach me: [Twitter](https://twitter.com/tashasyarifah_)
-
-### Tic-Tac-Toe React [Live Site](
-  - Build by following [React Tutoral](https://reactjs.org/tutorial/tutorial.html)
-  - Highlighted a winner from the row
-  - Added a draw messages
-  - Accessible on mobile phone
 -->
 
 
