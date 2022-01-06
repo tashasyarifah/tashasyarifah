@@ -8,7 +8,7 @@
 Let's connect with each other and please say Hi 👋 
   
 <p align="center">
-  <a href="mailto:tashasyarifah@outlook.com">
+  <a href="mailto:tashasyar@outlook.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/tashasyarifah/">
@@ -16,9 +16,6 @@ Let's connect with each other and please say Hi 👋
   </a>&nbsp;&nbsp;
   <a href="https://www.twitter.com/tashasyarifah_/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://codepen.io/tash2020">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
