@@ -1,7 +1,7 @@
 # Hi There 👋, I'm Tasha
 
 - A frontend developer. 
-- Currently, I'm learning React and having fun with them. 
+- Currently, I'm learning React from [Scrimba](https://scrimba.com/) and having fun with them. 
 - I'm learning about technology from [FreeCodeCamp](https://www.freecodecamp.org/) 
 - Open to collaberate.
 
