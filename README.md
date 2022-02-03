@@ -19,8 +19,6 @@ Let's connect with each other and please say Hi 👋
   </a>&nbsp;&nbsp;
 </p>
 
-
-
 ### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,16 +26,27 @@ Let's connect with each other and please say Hi 👋
 
 ### Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![GATSBY](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <details>
-  <summary>Projects 💎</summary>
+  <summary>Resume 💎</summary>
+  
+   ### Travel Journal [Live Site](https://travel-journal-tashasyarifah.vercel.app/) | [Repo](https://github.com/tashasyarifah/travel-journal)
+  - Created using React and CSS modules for style
+  - Identified the export default issue by fixing eslint-plugin-import
+  - Addressed a bug for images by adding a set max-width to global CSS
+  - Managed to have high results within each category for auditing by using Lighthouse with an average score of 94
+  - Responsive website
   
   ### Digital Business Card [Live Site](https://digital-business-card-tashasyarifah.vercel.app/) | [Repo](https://github.com/tashasyarifah/digital-business-card)
-  - Used HTML, CSS, Module.css, and JSX
+  - Designed using React and CSS modules for style
   - Learned on how components works on React
-  - Accessible on mobile too
+  - Got 2 stars on GitHub for this app
+  - Managed to have a high result for auditing website by using Lighthouse with an average score of 93
+  - Responsive website
   
   ### Sign Form [Live Site](https://signup-form-ruby.vercel.app/) | [Repo](https://github.com/tashasyarifah/signup-form)
   - Build with HTML5, CSS3, JavaScript
@@ -63,7 +72,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Frontend developer
 - 🤔 I’m looking for help with JavaScript and React
 - 😄 Pronouns: She/Her
-- 📫 How to reach me: [Twitter](https://twitter.com/tashasyarifah_)
+- 📫 How to reach me: 
 -->
 
 
