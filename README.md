@@ -2,7 +2,7 @@
 
 - A frontend developer.
 - I'm learning about technology from [FreeCodeCamp](https://www.freecodecamp.org/) 
-- Open to collaberate.
+- Open for work.
 
 Let's connect with each other and please say Hi 👋 
   
